@@ -1,0 +1,23 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/robis/Desktop/4uzduotis/untitled
+CMake Warning at CMakeLists.txt:6 (find_package):
+  By not providing "Find/usr/local/include/json.hpp.cmake" in
+  CMAKE_MODULE_PATH this project has asked CMake to find a package
+  configuration file provided by "/usr/local/include/json.hpp", but CMake did
+  not find one.
+
+  Could not find a package configuration file provided by
+  "/usr/local/include/json.hpp" with any of the following names:
+
+    /usr/local/include/json.hppConfig.cmake
+    /usr/local/include/json.hpp-config.cmake
+
+  Add the installation prefix of "/usr/local/include/json.hpp" to
+  CMAKE_PREFIX_PATH or set "/usr/local/include/json.hpp_DIR" to a directory
+  containing one of the above files.  If "/usr/local/include/json.hpp"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/robis/Desktop/4uzduotis/untitled/cmake-build-debug
